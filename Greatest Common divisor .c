@@ -41,3 +41,4 @@ return 0; // This is another return statement that exits the main function and r
 } // This is another closing curly bracket that marks the end of the main function body or block of code.
 
 //I hope this helps you understand every line of the code in C. If you have any questions, feel free to ask me.
+//All the codes are ©Soumya_Chakraborty
